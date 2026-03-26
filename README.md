@@ -37,7 +37,7 @@ We provide high-level technical leadership and end-to-end architecture services:
 
 Ready to build your next digital platform or scale your Azure infrastructure? Let's connect!
 
-* 📧 **Email:** [aziz@zartech.fr](mailto:aziz.zaroual@zartech.fr)
+* 📧 **Email:** [contact@zartech.fr](mailto:aziz.zaroual@zartech.fr)
 * 🌐 **Website:** [www.zartech.fr](https://www.zartech.fr)
 * 💼 **LinkedIn:** [ZARTECH France](https://www.linkedin.com/in/zartech-france-84a6473ba/)
 
