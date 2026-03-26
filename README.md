@@ -3,6 +3,7 @@
 **Solution Architecture | Microsoft Azure | CTO as a Service | Web & Mobile**
 
 ZARTECH is an independent IT consulting firm founded by Aziz ZAROUAL 
+
 We specialize in the technical framing, system design, and deployment of robust digital platforms. 
 
 We partner with enterprises, scale-ups, and startups to translate complex business requirements into scalable, secure, and well-documented technological realities.
