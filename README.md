@@ -8,7 +8,7 @@ ZARTECH is an independent IT consulting firm founded by Aziz Zaroual. We special
 
 ---
 
-# 🚀 Welcome to ZARTECH ☁️
+
 
 ### 💡 Core Services & Expertise
 
@@ -35,7 +35,7 @@ We provide high-level technical leadership and end-to-end architecture services:
 
 Ready to build your next digital platform or scale your Azure infrastructure? Let's connect!
 
-* 📧 **Email:** [aziz@zartech.fr](mailto:aziz@zartech.fr)
+* 📧 **Email:** [aziz@zartech.fr](mailto:aziz.zaroual@zartech.fr)
 * 🌐 **Website:** [www.zartech.fr](https://www.zartech.fr)
 * 💼 **LinkedIn:** [ZARTECH France](https://www.linkedin.com/in/zartech-france-84a6473ba/)
 
