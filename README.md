@@ -8,7 +8,8 @@ We specialize in the technical framing, system design, and deployment of robust 
 
 We partner with enterprises, scale-ups, and startups to translate complex business requirements into scalable, secure, and well-documented technological realities.
 
-<img width="1136" height="944" alt="1771162226044" src="https://github.com/user-attachments/assets/33ddc8ef-44b3-4b02-b4fa-477ee27b683f" />
+<img width="924" height="326" alt="image" src="https://github.com/user-attachments/assets/cc4f720a-9429-4700-af86-78e9420dec2c" />
+
 
 ---
 
