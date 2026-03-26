@@ -34,9 +34,9 @@ We are technology agnostic, but we have deep expertise in the following ecosyste
 
 Ready to scale your infrastructure or need expert technical guidance? Let's connect!
 
-* 📧 **Email:** [aziz@zartech.fr](mailto:aziz@zartech.fr)
+* 📧 **Email:** [aziz@zartech.fr](mailto:aziz.zaroual@zartech.fr)
 * 🌐 **Website:** [www.zartech.fr](https://www.zartech.fr)
-* 💼 **LinkedIn:** [Aziz Zaroual](https://www.linkedin.com/in/ton-lien-linkedin) *(N'oublie pas de mettre ton vrai lien ici !)*
+* 💼 **LinkedIn:** [ZARTECH France]([https://www.linkedin.com/in/ton-lien-linkedin](https://www.linkedin.com/in/zartech-france-84a6473ba/)) *(N'oublie pas de mettre ton vrai lien ici !)*
 
 ---
 ⭐️ *Building the foundation for tomorrow's technology, today.*
